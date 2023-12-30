@@ -7,6 +7,7 @@ This skelton comes with basic user auth setup with some packages & those are.
 3. JWT | https://jwt-auth.readthedocs.io/en/develop/quick-start/
 
 # Requirements
+# Arijeet Dutta
 
 1. Your system must have PHP verison 8.0 or above.
 
